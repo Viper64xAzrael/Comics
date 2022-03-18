@@ -1,4 +1,4 @@
-# Call of Duty®: Mobile Comics
+# Call of Duty®: Mobile Comics [W.I.P]
 The Call of Duty®: Mobile Series in the Battle Pass' Comics
 
 ### Documentation
